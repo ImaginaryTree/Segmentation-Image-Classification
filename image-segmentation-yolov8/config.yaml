@@ -1,0 +1,6 @@
+path: D:\python\conda\VISKOM\tubes_viskom\image-segmentation-yolov8\data
+train: images/train 
+val: images/val  
+
+nc: 2
+names: ['Cat', 'Dog']
